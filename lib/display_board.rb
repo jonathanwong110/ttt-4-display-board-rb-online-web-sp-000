@@ -9,3 +9,11 @@ def display_board(board)
   puts ("   |   |   ")
 end
 
+board = []
+def display_board
+  puts ("   |   |   ")
+  puts ("-----------")
+  puts ("   | X |   ")
+  puts ("-----------")
+  puts ("   |   |   ")
+end
