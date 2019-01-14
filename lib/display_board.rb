@@ -11,4 +11,9 @@ end
 
 board(1) = [" "," "," "," ","X"," "," "," "," "]
 def display_board(1)
-  
+  puts ("   |   |   ")
+  puts ("-----------")
+  puts ("   | X |   ")
+  puts ("-----------")
+  puts ("   |   |   ")
+end
