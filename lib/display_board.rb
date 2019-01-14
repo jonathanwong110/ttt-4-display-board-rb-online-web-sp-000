@@ -8,7 +8,9 @@ def display_board(board)
   puts ("-----------")
   puts ("   |   |   ")
 end
+end
 
+def display_board(1)
   puts ("   |   |   ")
   puts ("-----------")
   puts ("   | X |   ")
