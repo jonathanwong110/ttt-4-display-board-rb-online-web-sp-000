@@ -11,7 +11,7 @@ end
 end
 
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-def display_board(1)
+def display_board()
   puts ("   |   |   ")
   puts ("-----------")
   puts ("   | X |   ")
