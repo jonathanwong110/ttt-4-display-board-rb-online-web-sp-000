@@ -10,6 +10,7 @@ def display_board(board)
 end
 end
 
+board = 
 def display_board(1)
   puts ("   |   |   ")
   puts ("-----------")
