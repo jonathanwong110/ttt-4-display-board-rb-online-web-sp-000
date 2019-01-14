@@ -9,8 +9,8 @@ def display_board(board)
   puts ("   |   |   ")
 end
 
-board#{1} = [" "," "," "," ","X"," "," "," "," "]
-def display_board(1)
+board = [" "," "," "," ","X"," "," "," "," "]
+def display_board
   puts ("   |   |   ")
   puts ("-----------")
   puts ("   | X |   ")
