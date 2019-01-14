@@ -9,7 +9,7 @@ def display_board(board)
   puts ("   |   |   ")
 end
 
-board(1) = [" "," "," "," ","X"," "," "," "," "]
+board#{1} = [" "," "," "," ","X"," "," "," "," "]
 def display_board(1)
   puts ("   |   |   ")
   puts ("-----------")
